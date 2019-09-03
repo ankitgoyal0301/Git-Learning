@@ -37,3 +37,7 @@ MAKING NEW BRANCHES:
 
 $ git checkout -b NewBranch
 (Switch to new Branch)
+
+DETAILS OF ALL COMMITS:
+
+$ git log
