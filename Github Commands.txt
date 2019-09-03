@@ -16,7 +16,7 @@ $ git status
 $ git commit -m <<COMMENT describing commit,description of changes>>
 (commit to for eg. GitHub)
 
-$ git push 
+$ git push "Repository Link"
 
 $ git config --global user.email "goyalankit3129@gmail.com"
 
