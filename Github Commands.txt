@@ -29,3 +29,6 @@ $ git config --global user.email "goyalankit3129@gmail.com"
 
 $ git config --global user.name "ankitgoyal0301"
 (First Time)
+
+CLONING GIT:
+$ git clone "https://github.com/PECACM/GitWorkshop1.git"
