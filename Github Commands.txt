@@ -32,3 +32,12 @@ $ git config --global user.name "ankitgoyal0301"
 
 CLONING GIT:
 $ git clone "https://github.com/PECACM/GitWorkshop1.git"
+
+MAKING NEW BRANCHES:
+
+$ git checkout -b NewBranch
+(Switch to new Branch)
+
+DETAILS OF ALL COMMITS:
+
+$ git log
