@@ -1,0 +1,23 @@
+Ankit@DESKTOP-PUN3NV4 MINGW64 /d/CSS/Git
+
+
+$ git init
+(Initialized empty Git repository in D:/CSS/Git/.git/)
+
+$ git add hello.txt
+(Adding Particular Files)
+
+$ git add .
+(Adding all Files)
+
+$ git status
+(Current status of files-whether committed or not,uptodate or not)
+
+$ git commit -m <<COMMENT describing commit,description of changes>>
+(commit to for eg. GitHub)
+
+$ git push 
+
+$ git config --global user.email "goyalankit3129@gmail.com"
+
+$ git config --global user.name "ankitgoyal0301"
