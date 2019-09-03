@@ -10,6 +10,9 @@ $ git add hello.txt
 $ git add .
 (Adding all Files)
 
+$ git diff
+(Tells Difference between updated and original)
+
 $ git status
 (Current status of files-whether committed or not,uptodate or not)
 
