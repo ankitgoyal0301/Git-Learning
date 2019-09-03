@@ -16,8 +16,16 @@ $ git status
 $ git commit -m <<COMMENT describing commit,description of changes>>
 (commit to for eg. GitHub)
 
-$ git push "Repository Link"
+$ git remote add origin "https://github.com/ankitgoyal0301/Git-Learning.git"
+(First Time)
+
+$ git push -u origin master
+(First Time)
+
+$ git push "https://github.com/ankitgoyal0301/Git-Learning.git"
 
 $ git config --global user.email "goyalankit3129@gmail.com"
+(First Time)
 
 $ git config --global user.name "ankitgoyal0301"
+(First Time)
